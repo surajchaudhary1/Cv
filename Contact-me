@@ -1,0 +1,19 @@
+<h2>My Address </h2>
+<p>House No. 444</p>  
+<p>Malhendi,Shamli</p>
+<p>247776</p>
+<p>Uttar Pradesh,</p>
+<p>India</p>
+<p>my contact no. 9068684378</p>
+<hr>
+<h2>Enter your details..</h2>
+<form>
+  <label>Your Name</label>
+  <input type ="text" name ="yourName"></input><br><br>
+  <label>Enter your email</label>
+  <input type="email" name ="youremail"></input><br><br>
+  <label>Enter your password</label>
+  <input type="password" name ="yourpassword"></input><br><br>
+  <label> Your message</label>
+  <input type ="textarea" name ="yourmsg" row="8" cols="50"></input>
+</form>
